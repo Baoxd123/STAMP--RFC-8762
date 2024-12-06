@@ -1,7 +1,7 @@
 # STAMP
 A network measurement tool based on STAMP, Simple Two-Way Active Measurement Protocol (RFC 8762). 
 ## Download and Installation
-`pip install git+https://github.com/hanboyu/stamp.git`
+`pip install git+https://github.com/Baoxd123/STAMP--RFC-8762.git`
 ## Quick Start
 Launch the STAMPReflector ready to receive up to 10 flows:
 ```
